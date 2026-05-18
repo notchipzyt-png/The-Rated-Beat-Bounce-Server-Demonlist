@@ -1,0 +1,18 @@
+{
+    "id": 137922503,
+    "name": "jeSUS BOIII",
+    "author": "NotChipz",
+    "creators": ["Isaac", "NotChipz"],
+    "verifier": "NotChipz",
+    "verification": "https://youtu.be/n62BGsswHkQ",
+    "percentToQualify": "100",
+    "password": "Free To Copy",
+    "records": [
+              {
+            "user": "Obey",
+            "link": "https://youtu.be/SF94b2V9WBA",
+            "percent": 100,
+            "hz": 480
+        }
+    ]
+}
