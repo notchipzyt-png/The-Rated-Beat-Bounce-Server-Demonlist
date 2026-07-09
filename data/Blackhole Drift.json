@@ -8,5 +8,11 @@
     "percentToQualify": 61,
     "password": "Free To Copy",
     "records": [
+                              {
+            "user": "Maple",
+            "link": "https://youtu.be/h9iqhfoNOkc?is=V3gMCSNmrS9kA2kS",
+            "percent": 100,
+            "hz": 240
+        }
   ]
 }
